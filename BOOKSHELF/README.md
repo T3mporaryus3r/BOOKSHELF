@@ -1,4 +1,4 @@
-# library-management-system-using-php
+# BOOKSHELF
 
 
 --Technology requirement for this project :
@@ -20,13 +20,12 @@ you will get the folder named xampp after installing the xampp keep it where is 
   1.Download the zip file from the code option that you get after clicking the github link.
   2.extract the zip file and save it inside the xampp -> htdocs->
   3. open vs code and open the folder that u have saved in xampp -> htdocs-> and save it.
-  4.  come out of vs code search the app manager-osx from your pc which will be installed during installing the xampp (it will ask you to enter your pc password)
-  5.choose to manage server and start 
+  4.choose to manage server and start 
      -mysql database
      -proftpd
      -apacheweb server
  everything should be in running state 
- 6.after that go to your web browser and type 
+ 5.after that go to your web browser and type 
  localhost/name_of_your_downloadedfolder your project will be visible
  before that you need to set up the database for that following steps will be used:
      - open the new tab in the browser
